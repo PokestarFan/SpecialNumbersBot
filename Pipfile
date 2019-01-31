@@ -1,0 +1,13 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+
+[packages]
+
+python-twitter = "==3.4.2"
+
+[requires]
+
+python_version = "3.6"
